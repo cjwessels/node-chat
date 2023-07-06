@@ -1,0 +1,23 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "description": "react chat backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cjwessels/node-chat.git"
+  },
+  "keywords": [
+    "node",
+    "chat"
+  ],
+  "author": "CJ Wessels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjwessels/node-chat/issues"
+  },
+  "homepage": "https://github.com/cjwessels/node-chat#readme"
+}
